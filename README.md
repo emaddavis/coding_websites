@@ -13,3 +13,6 @@ https://docs.hackerone.com/hackers/hacker101.html -- cool CTF from the top marke
 
 Maths
 https://projecteuler.net/
+
+Resouces 
+https://git-scm.com/book/en/v2 -- the git bible
